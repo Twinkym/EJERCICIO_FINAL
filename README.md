@@ -20,7 +20,7 @@ Además, se sugiere que el programa incluya manejo de excepciones en
 caso de que el usuario ingrese un valor no válido para N, también que
 incluya comentarios para explicar el código y finalmente que se hagan los
 test unitarios necesarios para asegurar que el resultado es el esperado.
+![testPrograma py - EJERCICIO_FINAL - Visual Studio Code 24_06_2023 2_28_10](https://github.com/Twinkym/EJERCICIO_FINAL/assets/73356704/0d7bec40-8738-483e-a883-f9866d42f4f0)
 
 
-![Imagen de muestra de archivo pruebas unitarias programa genredor de matrices]
-()
+
