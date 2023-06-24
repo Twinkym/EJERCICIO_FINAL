@@ -23,4 +23,5 @@ test unitarios necesarios para asegurar que el resultado es el esperado.
 ![testPrograma py - EJERCICIO_FINAL - Visual Studio Code 24_06_2023 2_28_10](https://github.com/Twinkym/EJERCICIO_FINAL/assets/73356704/0d7bec40-8738-483e-a883-f9866d42f4f0)
 
 
+![testPrograma py - EJERCICIO_FINAL - Visual Studio Code 24_06_2023 2_26_17](https://github.com/Twinkym/EJERCICIO_FINAL/assets/73356704/fea17048-11a9-4d26-8969-0af2716e2b17)
 
