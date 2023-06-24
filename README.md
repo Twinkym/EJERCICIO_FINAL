@@ -23,4 +23,4 @@ test unitarios necesarios para asegurar que el resultado es el esperado.
 
 
 ![Imagen de muestra de archivo pruebas unitarias programa genredor de matrices]
-(https://github.com/Twinkym/EJERCICIO_FINAL/blob/master/IMAGENES/testPrograma.py_EJERCICIO_FINAL_VisualStudioCode_24_06_2023_2_26_17.png)
+()
